@@ -4,6 +4,7 @@ import ProjectsPage from "./pages/ProjectsPage"
 import Navbar from "./components/Navbar"
 import ProjectDetailsPage from "./pages/ProjectDetailsPage"
 
+
 function App() {
 
 
